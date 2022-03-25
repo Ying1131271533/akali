@@ -5,3 +5,7 @@
 时之契
 阿卡丽
 金克丝
+
+function ying(){
+	echo '樱';
+}
