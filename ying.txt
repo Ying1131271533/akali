@@ -9,3 +9,7 @@
 function anni(){
 	echo '安妮';
 }
+
+function ying(){
+	echo '樱';
+}

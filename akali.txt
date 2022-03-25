@@ -17,3 +17,7 @@ ggggggg
 function jinx(){
 	echo '金克丝';
 }
+
+function akali(){
+	echo '阿卡丽';
+}
