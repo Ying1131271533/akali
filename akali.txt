@@ -13,3 +13,7 @@ eeeeeee
 iiiiiii
 合并dev，同时保留master和dev的内容
 ggggggg
+
+function akali(){
+	echo '阿卡丽';
+}
